@@ -1,0 +1,105 @@
+ BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Study Calendar 1.0//EN
+NAME:Coursera Study Calendar
+X-WR-CALNAME:Coursera Study Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.016594598~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Monday.\n\nKeep up the great work and access your learning dashb
+ oard to continue making progress:\n\nhttps://www.coursera.org/my-learnin
+ g\n\nRemember\, consistency is vital to success. Let’s make every learni
+ ng session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.016805730~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Tuesday.\n\nKeep up the great work and access your learning dash
+ board to continue making progress:\n\nhttps://www.coursera.org/my-learni
+ ng\n\nRemember\, consistency is vital to success. Let’s make every learn
+ ing session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.016854788~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Wednesday.\n\nKeep up the great work and access your learning da
+ shboard to continue making progress:\n\nhttps://www.coursera.org/my-lear
+ ning\n\nRemember\, consistency is vital to success. Let’s make every lea
+ rning session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.016894506~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Thursday.\n\nKeep up the great work and access your learning das
+ hboard to continue making progress:\n\nhttps://www.coursera.org/my-learn
+ ing\n\nRemember\, consistency is vital to success. Let’s make every lear
+ ning session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.016930231~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Friday.\n\nKeep up the great work and access your learning dashb
+ oard to continue making progress:\n\nhttps://www.coursera.org/my-learnin
+ g\n\nRemember\, consistency is vital to success. Let’s make every learni
+ ng session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.016970303~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Saturday.\n\nKeep up the great work and access your learning das
+ hboard to continue making progress:\n\nhttps://www.coursera.org/my-learn
+ ing\n\nRemember\, consistency is vital to success. Let’s make every lear
+ ning session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T165026Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Coursera learning time
+UID:2026-08-22T22:50:26.017004534~courseraorg
+DESCRIPTION:You’ve set a weekly learning goal on Coursera. Today is a day
+  you've committed to advancing in your courses as part of your goal to l
+ earn on Sunday.\n\nKeep up the great work and access your learning dashb
+ oard to continue making progress:\n\nhttps://www.coursera.org/my-learnin
+ g\n\nRemember\, consistency is vital to success. Let’s make every learni
+ ng session count!\n
+RRULE:FREQ=WEEKLY;WKST=SU;BYDAY=SU
+END:VEVENT
+END:VCALENDAR
